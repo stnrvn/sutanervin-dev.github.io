@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #bbb;
+    font-family: 'Poppins',
+    sans-serif;
+}
+
+.nav {
+    background-color: rgb(37, 104, 180);
+    max-height: 200px;
+    margin-top: -20px;
+}
+
+.nav h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.box {
+    margin-top: 250px;
+    margin-left: 480px;
+}
+#input1 {
+    height: 50px;
+}
+
+#input2{
+    height: 50px;
+}
+
+#operator{
+    width: 9px;
+}
+
+#result{
+    margin-top: -41px;
+    margin-left: 440px;
+    height: 50px;
+}
